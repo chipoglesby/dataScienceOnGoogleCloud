@@ -1,4 +1,4 @@
-# Running Encrypted Dashboards on Google Cloud Platform
+# Running Rstudio and Shiny on Google Cloud Platform
 
 This project will walk you through setting up a Google Compute Engine VM
 and running encrypted versions of Rstudio and Shiny on Google Cloud.
